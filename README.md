@@ -53,3 +53,6 @@ ComplexFnPlot[eqn[Re@z, Im@z], {z, -5 - 5 I, 5 + 5 I}, PlotPoints -> 50]
 ```
 #### Graph of *f(z) = sin(z)*
 ![sin](pics/sin.png)
+
+## Reference
+https://mathematica.stackexchange.com/questions/3458/plotting-complex-quantity-functions
