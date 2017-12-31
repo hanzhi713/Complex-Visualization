@@ -1,5 +1,5 @@
 # Complex Function Visualization
-#### See [this pdf](./Visualization of Complex Functions by Hanzhi Zhou.pdf) for some explanations.
+#### See [this pdf](https://github.com/hanzhi713/Complex-Visualization/blob/master/Visualization%20of%20Complex%20Functions%20by%20Hanzhi%20Zhou.pdf) for some explanations.
 
 ## Visualizing *f: ℂ → ℝ*
 Method: Plot like a two-variable real function *f: ℝ<sup>2</sup> → ℝ*
