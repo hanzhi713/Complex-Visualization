@@ -29,9 +29,13 @@ Plot3D[Re@eqn[x, y], {x, -5, 5}, {y, -5, 5},
 Plot3D[Im@eqn[x, y], {x, -5, 5}, {y, -5, 5}, 
   PlotPoints -> 100, ColorFunction -> "Rainbow"];
 ```
+
 **The real part of** *f(z) = ln(z)*
+
 ![ln1](pics/ln1.png)
+
 **The imaginary part** of *f(z) = ln(z)*
+
 ![ln2](pics/ln2.png)
 
 ### Method 2
